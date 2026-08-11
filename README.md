@@ -24,3 +24,7 @@ This project analyzes pizza delivery data to understand order volume, delivery p
 - Restaurant Performance
 - Pizza Size Distribution
 - Delivery Location Analysis
+
+- ## Dashboard Preview
+
+![Pizza Delivery Power BI Dashboard](piza_dashboard.png)
