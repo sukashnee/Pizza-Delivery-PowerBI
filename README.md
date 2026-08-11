@@ -9,3 +9,18 @@ Power BI dashboard project analyzing pizza delivery orders, delays, customer ord
 - Power BI
 - Power Query
 - DAX
+## Project Overview
+
+This project analyzes pizza delivery data to understand order volume, delivery performance, delays, customer ordering patterns, and restaurant performance.
+
+## Key Analysis
+
+- Total Orders
+- Average Delivery Time
+- Average Delivery Distance
+- Delayed Orders and Delay Rate
+- Peak Order Hours
+- Monthly Order Trends
+- Restaurant Performance
+- Pizza Size Distribution
+- Delivery Location Analysis
