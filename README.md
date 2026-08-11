@@ -28,3 +28,13 @@ This project analyzes pizza delivery data to understand order volume, delivery p
 - ## Dashboard Preview
 
 ![Pizza Delivery Power BI Dashboard](piza_dashboard.png)
+
+## Key Insights
+
+- Identified total order volume and overall delivery performance.
+- Analyzed delayed orders and average delay time.
+- Compared monthly order trends across 2024, 2025, and 2026.
+- Compared restaurant performance based on order volume.
+- Analyzed pizza-size preferences.
+- Identified peak ordering hours.
+- Analyzed delivery locations and their delay rates.
